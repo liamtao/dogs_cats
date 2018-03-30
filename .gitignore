@@ -1,0 +1,13 @@
+
+*.pyc
+backup/
+csv_output/
+data/
+feature_extract/
+greate_loss.pckl
+logs/
+model/
+model_graph/
+test*
+.idea/
+.ipynb_checkpoints
